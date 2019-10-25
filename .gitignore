@@ -1,0 +1,11 @@
+*.swp
+*~
+npm-debug.log
+node_modules
+.DS_Store
+Icon
+# Thumbnails
+._*
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
